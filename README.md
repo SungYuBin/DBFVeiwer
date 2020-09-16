@@ -1,3 +1,3 @@
-# DBFVeiwer
-## DBF File Veiwer
-> Viewer that can check the internal structure of DBF files.
+# DBFViewer
+## Introduction
+> This DBF viewer is based on the open source. (https://cafe.naver.com/gisdev)
