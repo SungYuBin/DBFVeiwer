@@ -10,4 +10,3 @@ public:
 	unsigned char ver10_reserved[14];
 
 };
-
